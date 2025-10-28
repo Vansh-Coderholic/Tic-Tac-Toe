@@ -27,21 +27,7 @@ GUI Library: Swing (JFrame, JPanel, JButton, JLabel, etc.)
 
 Paradigm: Object-Oriented Programming (Encapsulation, Inheritance, Composition)
 
-📂 Project Structure
-com.vansh.tictactoe/
-│
-├── App.java                      # Main entry point
-│
-├── theme/
-│   └── Theme.java                # Centralized color & font styling
-│
-├── ui/
-│   └── TicTacToeFrame.java       # Main game window and logic
-│
-└── ui/components/
-    ├── GameButton.java           # Custom button for grid cells
-    ├── StyledButton.java         # Themed control buttons
-    └── SquarePanel.java          # Keeps grid square-shaped
+
 
 🎯 Game Flow
 
